@@ -20,9 +20,8 @@
 
 <table>
   <tr>
-    <td align="center"><img src="assets/screenshots/onboarding.png" width="220" alt="Onboarding" /><br /><sub>Onboarding</sub></td>
-    <td align="center"><img src="assets/screenshots/today.png" width="220" alt="Today" /><br /><sub>Today</sub></td>
-    <td align="center"><img src="assets/screenshots/goodnight.png" width="220" alt="Good Night" /><br /><sub>Good Night</sub></td>
+    <td align="center"><img src="assets/screenshots/today.jpg" width="240" alt="Today" /><br /><sub>Today</sub></td>
+    <td align="center"><img src="assets/screenshots/goodnight.jpg" width="240" alt="Good Night" /><br /><sub>Good Night</sub></td>
   </tr>
 </table>
 
