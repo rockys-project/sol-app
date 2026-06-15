@@ -252,7 +252,7 @@ No free tier with features locked. No dark patterns. If the app helps, you pay. 
 
 ## Status
 
-Active development. Android MVP targeting Q3 2025.
+Active development. Android MVP targeting Q3 Q4 2026.
 
 ---
 
