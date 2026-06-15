@@ -1,0 +1,32 @@
+[
+  {
+    "id": "arc_bed_to_outside",
+    "name": "Bed to outside",
+    "domain": "body_movement",
+    "task_sequence": ["T03", "T02", "T07", "T06", "T11", "T09"]
+  },
+  {
+    "id": "arc_eating_again",
+    "name": "Eating again",
+    "domain": "food_water",
+    "task_sequence": ["T08", "T06", "T10", "T13"]
+  },
+  {
+    "id": "arc_reconnecting",
+    "name": "Reconnecting",
+    "domain": "social_connection",
+    "task_sequence": ["T05", "T12", "T14", "T15", "T16", "T17"]
+  },
+  {
+    "id": "arc_restoring_order",
+    "name": "Restoring order",
+    "domain": "space_order",
+    "task_sequence": ["T08", "T10", "T13"]
+  },
+  {
+    "id": "arc_finding_light",
+    "name": "Finding light",
+    "domain": "light_environment",
+    "task_sequence": ["T01", "T07", "T05", "T04", "T18"]
+  }
+]
